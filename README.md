@@ -4,4 +4,4 @@
   * The Notebook works with Movie Lens Dataset and provide Stattiscal insights.
 
 * Seaborn :Statistical visualization basics
-  * Open Pokemon Notebon to learn about beginner Seaborn visualization library.
+  * Provides insights about Pokemon Dataset using Seaborn visualization library.
