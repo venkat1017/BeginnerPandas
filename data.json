@@ -1,9 +1,10 @@
 [{
+    "id":"1",
     "name": "Thengai Poornam Kozhukattai / Ukadiche Modak Recipe With Rice Flour",
     "url": "https://www.archanaskitchen.com/thengai-poornam-kozhukattai-ukadiche-modak-recipe-with-rice-flour",
     "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
     "yield": "Makes: 12 modaks",
-    "ingredients": [
+    "ingredients":[
       "1 cup Rice flour",
       "2 cups Water",
       "1 teaspoon Cooking oil",
@@ -40,6 +41,7 @@
       "en": "30 minutes"
     }
   }, {
+    "id":"2",
     "name": "Punjabi Mixed Vegetable Kadai Recipe",
     "url": "https://www.archanaskitchen.com/punjabi-mixed-vegetable-kadai-recipe",
     "img":"http://www.yummyoyummy.com/wp-content/uploads/2015/08/Kadai-vegetables3.jpg",
@@ -103,6 +105,7 @@
   },
 
   {
+    "id":"3",
     "name": "Roasted Tomato And Mozzarella Caprese Salad With Basil Balsamic Vinegar Recipe",
     "url": "https://www.archanaskitchen.com/roasted-tomato-and-mozzarella-caprese-salad-with-basil-balsamic-vinegar-recipe",
     "img":"http://www.seriouseats.com/recipes/assets_c/2013/12/122313-278218-Serious-Eats-Hearty-SAlads-Oven-Roasted-Tomato-CapreseB-thumb-625xauto-374642.jpg",
@@ -141,6 +144,7 @@
       "en": "10 minutes"
     }
   }, {
+    "id":"4",
     "name": "Raw Mango Prawns Curry Recipe",
     "url": "https://www.archanaskitchen.com/raw-mango-prawns-curry-recipe",
     "img":"http://maunikagowardhan.co.uk/wp-content/uploads/2016/01/Keralan-Prawn-Curry.jpg",
@@ -182,5 +186,239 @@
       "iso": "PT25M",
       "en": "25 minutes"
     }
+  },
+{
+  "id":"5",
+  "name": "Whole Grain and Oat Buns Recipe (Healthy Dinner Rolls)",
+  "url": "https://www.archanaskitchen.com/whole-grain-and-oat-buns-recipe-healthy-dinner-rolls",
+  "img":"https://theviewfromgreatisland.com/wp-content/uploads/2013/01/093-001.jpg",
+  "yield": "Makes: 4 Servings",
+  "ingredients": [
+    "1/2 cup Milk",
+    "3/4 cup Luke Warm Water",
+    "2 tablespoons Butter (unsalted)",
+    "3 teaspoons Instant yeast",
+    "2 tablespoons Honey",
+    "1 cup Whole Wheat flour",
+    "1 cup Oat flour",
+    "1-1/2 cups All Purpose Flour (Maida)",
+    "1 teaspoon Salt",
+    "1/4 cup Milk",
+    "Oats , for sprinkling"
+  ],
+  "instructions": [
+    "To begin making the Whole Grain and Oat Buns Recipe (Healthy Dinner Rolls), in a small saucepan combine the soft butter, milk, and water. Set over low heat until the butter is melt or just warm to the touch. Stir in the yeast and honey.",
+    "In the bowl, combine the whole wheat flour, oat flour, all-purpose flour, and salt. Add the milk mixture and stir until combined. Knead, until the dough comes together in a smooth, elastic, and slightly sticky ball.",
+    "If the bun dough is unbearably sticky, add more flour 1 tablespoon at a time. Avoid adding extra flour if possible, sticky is better than dense.",
+    "Remove the bun dough to a well-oiled bowl, turning to coat completely in oil. Cover with plastic wrap and let rise until doubled in size, about 1 hour.",
+    "Turn the bun dough out onto a floured work surface and divide into the 9 rolls. Form each piece into a smooth tight ball by stretching the corners around the bottom and rolling between your palm and the counter.",
+    "Grease an 8 by 8-inch baking dish. Place each ball of the Whole Grain and Oat dough in the dish and cover with plastic wrap or a muslin cloth. Let rise again until puffy, about 30 minutes.",
+    "Meanwhile, preheat the oven to 180°C.",
+    "Take 1/4 cup of milk and brush over the rolls. Sprinkle some oats and place it on the baking tray. Bake the Whole Grain and Oat Buns for about 10 to 15 minutes, or until golden. Once done, remove from the oven and serve warm.",
+    "Serve the Whole Grain and Oat Buns Recipe (Healthy Dinner Rolls) with a Creamy Radish Soup Recipe With Sweet Potato and salad for a wholesome dinner."
+  ],
+  "totalTime": {
+    "iso": "PT2H",
+    "en": "2 hours"
+  },
+  "prepTime": {
+    "iso": "PT1H40M",
+    "en": "1 hours and 40 minutes"
+  },
+  "cookTime": {
+    "iso": "PT20M",
+    "en": "20 minutes"
   }
+},
+{
+  "id":"6",
+  "name": "अमृतसरी छोले - White Chickpeas In Spicy Gravy (Recipe In Hindi)",
+  "url": "https://www.archanaskitchen.com/white-chickpeas-in-spicy-gravy-recipe-in-hindi",
+  "img": "https://i.pinimg.com/736x/79/8c/f2/798cf2b7c1127c60c90e49668647583c--veg-recipes-indian-recipes.jpg",
+  "yield": "Makes: 3 Servings",
+  "ingredients": [
+    "1 कप काबुली चना या छोला , धोकर भिगो ले",
+    "काली चाय , एक बैग",
+    "1 टमाटर",
+    "2 हरी मिर्च",
+    "2 बड़े चमच्च तेल",
+    "1 बड़े चमच्च घी , या माखन",
+    "1 स्टार अनीस",
+    "1 तेज पत्ता",
+    "5 लॉन्ग",
+    "1 इंच दाल चीनी",
+    "5 मेथी के दाने",
+    "1/4 छोटा चमच्च हींग",
+    "1/2 छोटा चमच्च कश्मीरी लाल मिर्च पाउडर",
+    "1/2 छोटा चमच्च जीरा पाउडर",
+    "2 छोटा चमच्च धनिया पाउडर",
+    "1/2 छोटा चमच्च हल्दी पाउडर",
+    "2 छोटे चमच्च चना मसाला पाउडर",
+    "1 प्याज , काट ले",
+    "1 छोटा चमच्च लहसुन , कस ले",
+    "1 छोटा चमच्च अदरक , कस ले",
+    "1 बड़ी इलाइची",
+    "1/2 छोटा चमच्च चाट मसाला पाउडर",
+    "नमक , स्वाद अनुसार",
+    "हरा धनिया , प्रयोग अनुसार (गार्निश के लिए)",
+    "कसूरी मेथी , प्रयोग अनुसार (गार्निश के लिए)"
+  ],
+  "instructions": [
+    "अमृतसरी छोले बनाने के लिए सबसे पहले टमाटर और हरी मिर्च की प्यूरी बना ले और अलग से रख दे.",
+    "अब एक कढ़ाई में तेल और घी गरम करें। इसमें स्टार अनीस, तेज पत्ता, दालचीनी और मेथी के दाने डाले। 15 सेकण्ड्स के लिए पकने दे.",
+    "15 सेकण्ड्स बाद इसमें प्याज और हींग डाले। प्याज के नरम होने तक पकाए।",
+    "प्याज के नरम होने के बाद इसमें टमाटर की प्यूरी डाले और 2 मिनट के लिए पकने दे. इसमें कश्मीरी लाल मिर्च पाउडर, जीरा पाउडर, धनिया पाउडर, हल्दी पाउडर और चना मसाला पाउडर डाले। 2 से 4 मिनट के लिए पकने दे.",
+    "4 मिनट बाद इसमें पके हुए चने और प्रयोग अनुसार चने वाला पानी डाले। मिलाए और इसमें बड़ी इलाइची, चाट मसाला और नमक डाले।",
+    "10 मिनट के लिए पकने दे. 10 मिनट बाद कसूरी मेथी डाले और मिलाए। गैस बंद करें और हरे धनिये से गार्निश करें।",
+    "अमृतसरी छोले को चावल/रोटी और बुरानी रायते के साथ दिन के खाने के लिए परोसे।"
+  ],
+  "totalTime": {
+    "iso": "PT50M",
+    "en": "50 minutes"
+  },
+  "prepTime": {
+    "iso": "PT20M",
+    "en": "20 minutes"
+  },
+  "cookTime": {
+    "iso": "PT30M",
+    "en": "30 minutes"
+  }
+},
+{
+  "id":"7",
+  "name": "सब्ज़ रवा इडली - Veggie Rava Idli (Recipe In Hindi)",
+  "url": "https://www.archanaskitchen.com/veggie-rava-idli-recipe-2",
+  "img":"http://cdn3.foodviva.com/static-content/food-images/breakfast-recipes/rava-idli-recipe/rava-idli-recipe.jpg",
+  "yield": "Makes: 4 Servings",
+  "ingredients": [
+    "1-1/2 कप सूजी",
+    "1 कप दही",
+    "1 बड़ा चमच्च अदरक , कस ले",
+    "1/2 कप स्वीट कॉर्न",
+    "1/2 कप हरा मटर",
+    "1/2 कप गाजर , कस ले",
+    "1/2 कप हरा धनिया , बारीक काट ले",
+    "3 हरी मिर्च , बारीक काट ले",
+    "1 बड़ा चमच्च राइ",
+    "1/2 बड़ा चमच्च चना दाल",
+    "10 कढ़ी पत्ता",
+    "1 छोटा चमच्च रेड चिल्ली फलैक्स",
+    "1 बड़ा चमच्च तेल",
+    "नमक , स्वाद अनुसार",
+    "1 छोटा चमच्च इनो फ्रूट साल्ट",
+    "1 कप पानी"
+  ],
+  "instructions": [
+    "सब्ज़ रवा इडली बनाने के लिए एक बड़े बाउल में सूजी, दही और पानी डाले। सबको अच्छी तरह से मिला ले.",
+    "अब इसमें स्वीट कॉर्न, मटर, हरी मिर्च, अदरक, धनिया और नमक डाले। मिला ले और अलग से रख दे.",
+    "अब एक छोटी कढ़ाई में तेल गरम करें। इसमें राइ, चना दाल, कढ़ी पत्ता और चिल्ली फलैक्स डाले। 1 मिनट तक पकाए और गैस बंद कर ले.",
+    "इस तड़के को सूजी के मिश्रण में डाले और मिला ले. इडली बनाने के पहले इसमें फ्रूट साल्ट डाले और मिला ले.",
+    "अब इडली स्टीमर में थोड़ा तेल लगाए और इसमें इडली का मिश्रण डाले। 10 से 12 मिनट तक स्टीम करें। बनने के बाद स्टीमर से निकाले और परोसे.",
+    "सब्ज़ रवा इडली को मिक्स्ड वेजिटेबल सांबर और नारियल की चटनी के साथ सुबह के नाश्ते के लिए परोसे."
+  ],
+  "totalTime": {
+    "iso": "PT40M",
+    "en": "40 minutes"
+  },
+  "prepTime": {
+    "iso": "PT10M",
+    "en": "10 minutes"
+  },
+  "cookTime": {
+    "iso": "PT30M",
+    "en": "30 minutes"
+  }
+},
+{
+  "id":"8",
+  "name": "Vegan Hot Chocolate Recipe",
+  "url": "https://www.archanaskitchen.com/vegan-hot-chocolate-recipe",
+  "img":"http://fitfoodiefinds.com/wp-content/uploads/2014/09/hot-choc4.png",
+  "yield": "Makes: 4 Servings",
+  "ingredients": [
+    "1 liter Soy milk , or almond milk",
+    "1/4 cup Cocoa Powder",
+    "1 pinch Salt",
+    "1/4 cup Cane sugar , or coconut sugar",
+    "1 tablespoon Vanilla Extract",
+    "60 grams Chocolate Bar , dairy free , chopped (optional)"
+  ],
+  "instructions": [
+    "To prepare Vegan hot Chocolate Recipe, get prep with all the ingredients first.",
+    "In a Saucepan add cocoa powder, cane sugar, salt, vanilla and 1/2 cup of soy milk into a Blender and whisk until ingredients have combined smoothly. Now whisk in the remaining soy milk (or almond milk).",
+    "Turn on the heat and slowly bring it to a boil and turn off the heat and drop the dairy free chocolate (if using) and stir.",
+    "Alternately, break chocolate and divide into 4 cups (optional), pour the hot chocolate into the cups.",
+    "Serve vegan hot chocolate recipe with Pretzel salad or Whole Wheat Banana Bread Recipe (with Eggless & Vegan Options) during evening."
+  ],
+  "totalTime": {
+    "iso": "PT10M",
+    "en": "10 minutes"
+  },
+  "prepTime": {
+    "iso": "PT0M",
+    "en": "0 minutes"
+  },
+  "cookTime": {
+    "iso": "PT10M",
+    "en": "10 minutes"
+  }
+},
+{
+  "id":"9",
+  "name": "Spicy Egg Biryani Recipe with Figaro Olive Oil",
+  "url": "https://www.archanaskitchen.com/spicy-egg-biryani-recipe",
+  "img":"http://1.bp.blogspot.com/-qtX1nMrht4A/VPQVN54ShuI/AAAAAAAALmk/7r_pqz35yvY/s1600/Egg-Biryani-recipe.jpg",
+  "yield": "Makes: 4 Servings",
+  "ingredients": [
+    "1-1/2 cup Basmati rice",
+    "2 Onions , thinly sliced",
+    "1 Onion , sliced and caramelized",
+    "2 Tomatoes , finely chopped",
+    "3 Whole Eggs , boiled",
+    "3 Green Chillies , chopped",
+    "2 inch Ginger",
+    "6 cloves Garlic",
+    "1/4 cup Mint Leaves (Pudina) , chopped",
+    "1/2 cup Yogurt (Curd)",
+    "Saffron strands , a few strands soaked in milk",
+    "1 teaspoon Turmeric powder (Haldi)",
+    "1 teaspoon Red chilli powder",
+    "1 teaspoon Garam masala powder",
+    "2 Bay leaves (tej patta)",
+    "2 inch Cinnamon Stick",
+    "2 Cloves",
+    "Salt , to taste",
+    "1 tablespoon Figaro Pure Olive Oil",
+    "2 Onions , sliced and caramelized",
+    "Coriander leaves (Dhania) , Few sprigs chopped",
+    "1/4 cup Cashew nuts , roasted in ghee until browned",
+    "Coriander leaves (Dhania) , Few sprigs chopped",
+    "1/4 cup Cashew nuts , roasted in ghee until browned"
+  ],
+  "instructions": [
+    "To begin making the Spicy Egg Biryani, soak rice in 1 cup of water for about 20 minutes.",
+    "Boil the eggs with water in a saucepan. Once done, peel the shell and keep aside.",
+    "Grind the ginger, garlic and green chillies in a pestle and mortar.",
+    "Heat oil in the pressure cooker, add the sliced onions and cook them till they change its colour to caramel.",
+    "Add the ginger garlic paste and add whole spices. Saute until you can smell the delicious aromas.",
+    "Add the pureed tomatoes, the turmeric powder, red chilli powder and garam masala powder. When the masala is mixed properly, add the eggs, give it a stir, rice, saffron milk, yogurt, salt and mint.",
+    "Add 2 cups water and cook for three whistles and turn off the heat.",
+    "Once done, turn off the heat and allow the egg biryani to rest for a few minutes.",
+    "Stir in the caramelized onions and serve.",
+    "Serve Spicy Egg Biryani along with Raita and Mirchi Ka Salan for a delicious meal."
+  ],
+  "totalTime": {
+    "iso": "PT1H40M",
+    "en": "1 hours and 40 minutes"
+  },
+  "prepTime": {
+    "iso": "PT30M",
+    "en": "30 minutes"
+  },
+  "cookTime": {
+    "iso": "PT1H10M",
+    "en": "1 hours and 10 minutes"
+  }
+}
 ]
