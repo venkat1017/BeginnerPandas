@@ -1,0 +1,61 @@
+[{
+    "id":"1",
+    "name": "Continental",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"20"
+ },
+{
+    "id":"2",
+    "name": "African",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"40"
+  },
+{
+    "id":"3",
+    "name": "Indian",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"30"
+  },
+{
+    "id":"4",
+    "name": "North Indian",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"200"
+  },
+{
+    "id":"5",
+    "name": "Mexican",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"10"
+  },
+{
+    "id":"6",
+    "name": "South Indian",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"5"
+  },
+{
+    "id":"7",
+    "name": "Maharashtrian",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"64"
+  },
+{
+    "id":"8",
+    "name": "Thai",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"22"
+  },
+{
+    "id":"9",
+    "name": "Karnataka",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"20"
+  },
+{
+    "id":"10",
+    "name": "Andhra",
+    "img":"http://www.awesomecuisine.com/content_images/1/modak.jpg",
+    "count":"20"
+  }
+]
